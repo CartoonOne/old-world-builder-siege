@@ -3245,6 +3245,17 @@
           "minimum": 0,
           "maximum": 0,
           "perModel": true
+        },       
+        {
+          "name_en": "Grapplin hooks",
+          "name_cn": "Grapplin hooks",
+          "name_de": "Grapplin hooks",
+          "name_es": "Grapplin hooks",
+          "name_fr": "Grapplin hooks",
+          "points": 1,
+          "minimum": 0,
+          "maximum": 0,
+          "perModel": true
         },
         {
           "name_en": "Chaotic Cult",
