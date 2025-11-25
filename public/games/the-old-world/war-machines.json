@@ -1,0 +1,57 @@
+{
+  "characters": [
+{
+      "name_en": "Siege tower",
+      "name_cn": "Siege tower",
+      "name_de": "Siege tower",
+      "name_es": "Siege tower",
+      "name_fr": "Siege tower",
+      "id": "siege-tower",
+      "points": 100,
+      "armyComposition": {
+        "warriors-of-chaos": {
+          "category": "characters"
+        },
+        "wolves-of-the-sea": {
+          "category": "characters"
+        },
+        "heralds-of-darkness": {
+          "category": "characters"
+        }
+ },{
+      "name_en": "Bélier",
+      "name_cn": "Bélier",
+      "name_de": "Bélier",
+      "name_es": "Bélier",
+      "name_fr": "Bélier",
+      "id": "Bélier",
+      "points": 10,
+      "armyComposition": {
+        "warriors-of-chaos": {
+          "category": "characters"
+        },
+        "wolves-of-the-sea": {
+          "category": "characters"
+        },
+        "heralds-of-darkness": {
+          "category": "characters"
+},{
+      "name_en": "Siege Belier",
+      "name_cn": "Bélier de siège",
+      "name_de": "Bélier de siège",
+      "name_es": "Bélier de siège",
+      "name_fr": "Bélier de siège",
+      "id": "Bélier",
+      "points": 50,
+      "armyComposition": {
+        "warriors-of-chaos": {
+          "category": "characters"
+        },
+        "wolves-of-the-sea": {
+          "category": "characters"
+        },
+        "heralds-of-darkness": {
+          "category": "characters"
+}
+]
+}
