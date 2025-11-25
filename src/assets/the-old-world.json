@@ -333,7 +333,16 @@
             "army": "beastmen-brayherds",
             "units": ["centigore-chieftain", "centigor-herds"]
           }
-        ]
+        ],
+        "warriors-ofchaos": [
+          {
+            "army": "war-machines",
+            "units": ["belier", "siege-tower", "siege-belier"]
+          }
+        ],
+
+
+        
       }
     },
     {
