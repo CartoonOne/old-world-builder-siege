@@ -41,7 +41,7 @@
       "name_de": "Bélier de siège",
       "name_es": "Bélier de siège",
       "name_fr": "Bélier de siège",
-      "id": "Bélier",
+      "id": "siege-belier",
       "points": 50,
       "armyComposition": {
         "warriors-of-chaos": {
