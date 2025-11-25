@@ -316,12 +316,6 @@
         }
       ],
       "mercenaries": {
-        "warriors-of-chaos": [
-          {
-            "army": "orc-and-goblin-tribes",
-            "units": ["badland-ogre-bulls", "bonegrinder-giant"]
-          }
-        ],
         "wolves-of-the-sea": [
           {
             "army": "beastmen-brayherds",
