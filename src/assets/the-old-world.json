@@ -844,6 +844,17 @@
           }
         ]
       }
+      ,{
+      "id": "war-machines",
+      "name_de": "Machines de guerre",
+      "name_en": "Machines de guerre",
+      "name_cn": "Machines de guerre",
+      "name_es": "Machines de guerre",
+      "name_fr": "Machines de guerre",
+      "items": ["general"],
+      "armyComposition": ["grand-cathay"],
+    }
+    }
     }
   ]
 }
